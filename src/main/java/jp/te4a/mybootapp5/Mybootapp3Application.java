@@ -1,4 +1,4 @@
-package com.example.mybootapp3;
+package jp.te4a.mybootapp5;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
